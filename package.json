@@ -1,0 +1,18 @@
+{
+    "name": "zabbix2jira",
+    "version": "0.1",
+    "author": "frank fan",
+    "description": "Send zabbix alerts to jira",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+    	"body-parser" : "*",
+        "express" : "4.*",
+        "redis" : "*",
+        "request" : "*",
+        "serve-static" : "*",
+        "xml2js" : "*"
+    }
+}
+

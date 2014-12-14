@@ -1,0 +1,21 @@
+{
+	"zabbixconfig" : {
+		"url" : "",
+		"username" : "",
+		"password" : "!",
+		"proxy" : "",
+
+		"url" : "",
+		"username" : "",
+		"password" : "",
+		"proxy" : null
+	},
+	"jiraconfig" : {
+		"url" : "",
+		"username" : "",
+		"password" : ""
+	},
+
+	"action_id" : "",
+    "time_from" : "1418601600"
+}
