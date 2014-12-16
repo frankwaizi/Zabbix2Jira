@@ -2,7 +2,7 @@
 	"zabbixconfig" : {
 		"url" : "",
 		"username" : "",
-		"password" : "!",
+		"password" : "",
 		"proxy" : "",
 
 		"url" : "",
